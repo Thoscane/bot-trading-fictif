@@ -1,0 +1,33 @@
+POINT QUOTIDIEN — bot fictif — 15/10/2026 19:45:33 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 928,6170 € (-0,71 % depuis 10 000,00 €)
+Espèces : 4 514,0797 € | Positions : 5 414,5373 € | Frais cumulés : 27,2931 €
+Gains réalisés : 0,0000 € | Baisse max depuis le sommet : 0,72 %
+Transactions : 11 au total, 11 sur 24 h (0 ventes gagnantes / 0 perdantes)
+Référence acheter-conserver SPY : 9 937,6831 € (-0,62 %) — écart bot : -0,09 %
+Référence acheter-conserver QQQ : 9 965,8776 € (-0,34 %) — écart bot : -0,37 %
+Positions : UNH 1,381641 (coût 499,9998 €) ; XLE 8,35943 (coût 499,7141 €) ; XLV 3,125136 (coût 499,4283 €) ; LLY 0,44125 (coût 499,3288 €) ; KO 5,940061 (coût 498,9941 €) ; WMT 4,633353 (coût 498,7306 €) ; XOM 3,171106 (coût 498,7371 €) ; PG 3,497718 (coût 498,5146 €) ; COST 0,562154 (coût 497,7149 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €)
+Cotations : AAPL 306,98 €/307,14 € OK [15/10 19:40] ; AMZN 227,03 €/227,15 € OK [15/10 19:40] ; AVGO 303,11 €/303,26 € OK [15/10 19:45] ; COST 880,72 €/881,16 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [15/10 19:30] ; DIA 464,16 €/464,39 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; GLD 339,13 €/339,30 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; GOOGL 311,88 €/312,03 € OK [15/10 19:40] ; HD 272,47 €/272,61 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [15/10 19:30] ; IWM 244,01 €/244,14 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; JNJ 226,87 €/226,98 € OK [15/10 19:45] ; JPM 298,24 €/298,39 € OK [15/10 19:45] ; KO 82,47 €/82,51 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [15/10 19:25] ; LLY 1 126,87 €/1 127,43 € OK [15/10 19:45] ; META 661,68 €/662,01 € OK [15/10 19:40] ; MSFT 481,31 €/481,55 € OK [15/10 19:40] ; NFLX 64,83 €/64,86 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [15/10 19:30] ; NVDA 194,46 €/194,56 € OK [15/10 19:40] ; PG 140,84 €/140,91 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [15/10 19:25] ; QQQ 646,16 €/646,49 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [15/10 19:30] ; SPY 686,95 €/687,30 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [15/10 19:30] ; TLT 71,44 €/71,48 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; TSLA 322,44 €/322,61 € OK [15/10 19:45] ; UNH 366,57 €/366,75 € OK [15/10 19:45] ; V 357,42 €/357,60 € OK [15/10 19:45] ; VNQ 81,60 €/81,64 € OK [15/10 19:40] ; WMT 105,75 €/105,81 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [15/10 19:30] ; XLE 59,39 €/59,42 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; XLF 49,19 €/49,22 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; XLV 158,73 €/158,80 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [15/10 19:35] ; XOM 155,80 €/155,87 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [15/10 19:25]
+Transactions des 24 h :
+  - 15/10 15:50 ACHAT UNH 1,381641 @ 360,0880 € frais 2,4876 € — tendance haussière MM108/MM252 sur UNH (écart +1.60 %) — ligne 1/20, budget 500.00 € (1/20 de 10000.00 €, plafonné aux espèces)
+  - 15/10 15:55 ACHAT XLE 8,35943 @ 59,4811 € frais 2,4861 € — tendance haussière MM108/MM252 sur XLE (écart +1.12 %) — ligne 2/20, budget 499.71 € (1/20 de 9994.28 €, plafonné aux espèces)
+  - 15/10 16:01 ACHAT XLV 3,125136 @ 159,0150 € frais 2,4847 € — tendance haussière MM108/MM252 sur XLV (écart +0.69 %) — ligne 3/20, budget 499.43 € (1/20 de 9988.57 €, plafonné aux espèces)
+  - 15/10 16:05 ACHAT LLY 0,44125 @ 1 125,9934 € frais 2,4842 € — tendance haussière MM108/MM252 sur LLY (écart +1.39 %) — ligne 4/20, budget 499.33 € (1/20 de 9986.59 €, plafonné aux espèces)
+  - 15/10 16:10 ACHAT KO 5,940061 @ 83,5869 € frais 2,4826 € — tendance haussière MM108/MM252 sur KO (écart +1.31 %) — ligne 5/20, budget 498.99 € (1/20 de 9979.88 €, plafonné aux espèces)
+  - 15/10 16:15 ACHAT WMT 4,633353 @ 107,1037 € frais 2,4812 € — tendance haussière MM108/MM252 sur WMT (écart +1.20 %) — ligne 6/20, budget 498.73 € (1/20 de 9974.61 €, plafonné aux espèces)
+  - 15/10 16:30 ACHAT XOM 3,171106 @ 156,4930 € frais 2,4813 € — tendance haussière MM108/MM252 sur XOM (écart +1.23 %) — ligne 7/20, budget 498.74 € (1/20 de 9974.74 €, plafonné aux espèces)
+  - 15/10 16:35 ACHAT PG 3,497718 @ 141,8166 € frais 2,4802 € — tendance haussière MM108/MM252 sur PG (écart +1.13 %) — ligne 8/20, budget 498.51 € (1/20 de 9970.30 €, plafonné aux espèces)
+  - 15/10 16:55 ACHAT COST 0,562154 @ 880,9663 € frais 2,4762 € — tendance haussière MM108/MM252 sur COST (écart +1.19 %) — ligne 9/20, budget 497.72 € (1/20 de 9954.31 €, plafonné aux espèces)
+  - 15/10 17:01 ACHAT HD 1,810905 @ 273,3693 € frais 2,4752 € — tendance haussière MM108/MM252 sur HD (écart +0.75 %) — ligne 10/20, budget 497.52 € (1/20 de 9950.42 €, plafonné aux espèces)
+  - 15/10 17:05 ACHAT TLT 6,903319 @ 71,6703 € frais 2,4738 € — tendance haussière MM108/MM252 sur TLT (écart +0.60 %) — ligne 11/20, budget 497.24 € (1/20 de 9944.73 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 15/10 09:25 [demarrage] Portefeuille créé avec 10000.00 € fictifs
+  - 15/10 15:30 [donnees] SPY : données anciennes — transactions suspendues
+  - 15/10 15:30 [donnees] QQQ : données anciennes — transactions suspendues
+  - 15/10 15:30 [donnees] DIA : données anciennes — transactions suspendues
+  - 15/10 15:30 [donnees] IWM : données anciennes — transactions suspendues
+  - 15/10 15:30 [donnees] GLD : données anciennes — transactions suspendues
+  - 15/10 15:30 [donnees] TLT : données anciennes — transactions suspendues
+  - 15/10 15:30 [donnees] XLE : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

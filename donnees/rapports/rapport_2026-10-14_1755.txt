@@ -1,0 +1,44 @@
+POINT QUOTIDIEN — bot fictif — 14/10/2026 19:55:24 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 94,2217 € (-5,78 % depuis 100,00 €)
+Espèces : 94,2217 € | Positions : 0,0000 € | Frais cumulés : 4,2674 €
+Gains réalisés : -5,7783 € | Baisse max depuis le sommet : 5,78 %
+Transactions : 32 au total, 22 sur 24 h (0 ventes gagnantes / 16 perdantes)
+Référence acheter-conserver BTC/EUR : 97,2846 € (-2,72 %) — écart bot : -3,06 %
+Référence acheter-conserver SPY : 97,8229 € (-2,18 %) — écart bot : -3,60 %
+Positions : aucune (100 % espèces)
+Cotations : AAPL 307,07 €/307,22 € OK [14/10 19:55] ; BTC/EUR 73 242,60 €/73 242,70 € OK [14/10 19:55] ; ETH/EUR 2 181,59 €/2 181,60 € OK [14/10 19:55] ; GLD 335,95 €/336,11 € OK [14/10 19:55] ; MSFT 480,60 €/480,84 € OK [14/10 19:55] ; NVDA 198,08 €/198,18 € OK [14/10 19:55] ; QQQ 653,61 €/653,94 € OK [14/10 19:55] ; SPY 689,18 €/689,52 € OK [14/10 19:55]
+Transactions des 24 h :
+  - 13/10 21:15 ACHAT ETH/EUR 0,01460502 @ 2 240,1095 € frais 0,1309 € — croisement haussier MM9/MM21 sur ETH/EUR (écart +0.06 %) — ligne 1/3, budget 32.85 € (1/3 de 98.54 €, plafonné aux espèces)
+  - 13/10 22:20 VENTE ETH/EUR 0,01460502 @ 2 236,8710 € frais 0,1307 € — MM9 repassée sous MM21 (écart -0.02 %) ; P&L latent -0.94 %
+  - 13/10 23:05 ACHAT BTC/EUR 0,00043802 @ 74 457,2100 € frais 0,1305 € — croisement haussier MM9/MM21 sur BTC/EUR (écart +0.06 %) — ligne 1/3, budget 32.74 € (1/3 de 98.23 €, plafonné aux espèces)
+  - 14/10 01:15 VENTE BTC/EUR 0,00043802 @ 74 285,5387 € frais 0,1302 € — MM9 repassée sous MM21 (écart -0.01 %) ; P&L latent -1.03 %
+  - 14/10 02:35 ACHAT ETH/EUR 0,01448134 @ 2 244,4617 € frais 0,1300 € — croisement haussier MM9/MM21 sur ETH/EUR (écart +0.05 %) — ligne 1/3, budget 32.63 € (1/3 de 97.90 €, plafonné aux espèces)
+  - 14/10 03:30 VENTE ETH/EUR 0,01448134 @ 2 232,6631 € frais 0,1293 € — MM9 repassée sous MM21 (écart -0.02 %) ; P&L latent -1.32 %
+  - 14/10 05:05 ACHAT BTC/EUR 0,00043354 @ 74 639,8012 € frais 0,1294 € — croisement haussier MM9/MM21 sur BTC/EUR (écart +0.07 %) — ligne 1/3, budget 32.49 € (1/3 de 97.47 €, plafonné aux espèces)
+  - 14/10 06:35 VENTE BTC/EUR 0,00043354 @ 74 709,6265 € frais 0,1296 € — MM9 repassée sous MM21 (écart -0.02 %) ; P&L latent -0.70 %
+  - 14/10 10:05 ACHAT ETH/EUR 0,01436006 @ 2 248,1835 € frais 0,1291 € — croisement haussier MM9/MM21 sur ETH/EUR (écart +0.07 %) — ligne 1/3, budget 32.41 € (1/3 de 97.24 €, plafonné aux espèces)
+  - 14/10 11:05 VENTE ETH/EUR 0,01436006 @ 2 235,8215 € frais 0,1284 € — MM9 repassée sous MM21 (écart -0.00 %) ; P&L latent -1.34 %
+  - 14/10 12:55 ACHAT ETH/EUR 0,01436401 @ 2 237,5082 € frais 0,1286 € — croisement haussier MM9/MM21 sur ETH/EUR (écart +0.08 %) — ligne 1/3, budget 32.27 € (1/3 de 96.80 €, plafonné aux espèces)
+  - 14/10 14:00 VENTE ETH/EUR 0,01436401 @ 2 234,9220 € frais 0,1284 € — MM9 repassée sous MM21 (écart -0.01 %) ; P&L latent -0.91 %
+  - 14/10 14:15 ACHAT BTC/EUR 0,00042831 @ 74 808,7857 € frais 0,1282 € — croisement haussier MM9/MM21 sur BTC/EUR (écart +0.06 %) — ligne 1/3, budget 32.17 € (1/3 de 96.51 €, plafonné aux espèces)
+  - 14/10 14:55 VENTE BTC/EUR 0,00042831 @ 74 299,8315 € frais 0,1273 € — MM9 repassée sous MM21 (écart -0.00 %) ; P&L latent -1.47 %
+  - 14/10 15:40 ACHAT AAPL 0,102222 @ 311,6048 € frais 0,1593 € — croisement haussier MM9/MM21 sur AAPL (écart +0.10 %) — ligne 1/3, budget 32.01 € (1/3 de 96.04 €, plafonné aux espèces)
+  - 14/10 16:05 ACHAT MSFT 0,064975 @ 488,0604 € frais 0,1586 € — croisement haussier MM9/MM21 sur MSFT (écart +0.07 %) — ligne 2/3, budget 31.87 € (1/3 de 95.61 €, plafonné aux espèces)
+  - 14/10 16:35 VENTE MSFT 0,064975 @ 485,2772 € frais 0,1577 € — MM9 repassée sous MM21 (écart -0.15 %) ; P&L latent -1.56 %
+  - 14/10 17:20 VENTE AAPL 0,102222 @ 310,6328 € frais 0,1588 € — MM9 repassée sous MM21 (écart -0.02 %) ; P&L latent -1.30 %
+  - 14/10 17:40 ACHAT ETH/EUR 0,01439902 @ 2 193,2861 € frais 0,1263 € — croisement haussier MM9/MM21 sur ETH/EUR (écart +0.10 %) — ligne 1/3, budget 31.71 € (1/3 de 95.12 €, plafonné aux espèces)
+  - 14/10 18:30 VENTE ETH/EUR 0,01439902 @ 2 186,5062 € frais 0,1259 € — MM9 repassée sous MM21 (écart -0.02 %) ; P&L latent -1.10 %
+  - 14/10 19:01 ACHAT ETH/EUR 0,01428234 @ 2 203,0710 € frais 0,1259 € — croisement haussier MM9/MM21 sur ETH/EUR (écart +0.08 %) — ligne 1/3, budget 31.59 € (1/3 de 94.77 €, plafonné aux espèces)
+  - 14/10 19:50 VENTE ETH/EUR 0,01428234 @ 2 182,0384 € frais 0,1247 € — MM9 repassée sous MM21 (écart -0.04 %) ; P&L latent -1.74 %
+Incidents des 24 h : 40
+  - 13/10 21:20 [donnees] MSFT : données anciennes (35 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:20 [donnees] NVDA : données anciennes (35 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:20 [donnees] GLD : données anciennes (35 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:35 [donnees] SPY : données anciennes (10 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:35 [donnees] QQQ : données anciennes (10 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:35 [donnees] AAPL : données anciennes (10 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:35 [donnees] MSFT : données anciennes (10 min) — jour férié ou retard de la source ? — transactions suspendues
+  - 13/10 21:35 [donnees] NVDA : données anciennes (10 min) — jour férié ou retard de la source ? — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.
