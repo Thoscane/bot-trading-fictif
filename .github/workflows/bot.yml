@@ -1,0 +1,49 @@
+name: bot-fictif
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+concurrency:
+  group: bot-fictif
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  cycle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Cle Twelve Data
+        run: |
+          if [ -n "${{ secrets.TWELVEDATA_API_KEY }}" ]; then echo "${{ secrets.TWELVEDATA_API_KEY }}" > cle_twelvedata.txt; fi
+      - name: Un cycle du bot
+        run: python lancer.py cycle
+      - name: Rapport quotidien vers 20 h
+        run: |
+          H=$(TZ=Europe/Paris date +%H); M=$(TZ=Europe/Paris date +%M)
+          if [ "$H" = "19" ] && [ "$M" -ge 45 ]; then python lancer.py rapport; fi
+      - name: Sauvegarde (remplace la sauvegarde precedente du bot pour ne pas gonfler le depot)
+        run: |
+          rm -f cle_twelvedata.txt
+          git config user.name "bot-fictif"
+          git config user.email "bot-fictif@users.noreply.github.com"
+          git add -A donnees
+          git diff --cached --quiet && exit 0
+          PREV=$(git rev-parse HEAD)
+          if [ "$(git log -1 --format=%an)" = "bot-fictif" ]; then
+            git commit --amend -q -m "etat du bot $(date -u +%FT%TZ)"
+            if git push -q --force-with-lease=main:$PREV origin HEAD:main; then exit 0; fi
+            echo "Le depot a change entre-temps : sauvegarde classique sans rien ecraser."
+          else
+            git commit -q -m "etat du bot $(date -u +%FT%TZ)"
+            if git push -q origin HEAD:main; then exit 0; fi
+          fi
+          git fetch -q origin main
+          git reset -q origin/main
+          git add -A donnees
+          git commit -q -m "etat du bot $(date -u +%FT%TZ)"
+          git push -q origin HEAD:main

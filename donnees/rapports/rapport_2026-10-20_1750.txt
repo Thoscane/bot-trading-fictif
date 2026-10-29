@@ -1,0 +1,25 @@
+POINT QUOTIDIEN — bot fictif — 20/10/2026 19:50:30 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 939,4739 € (-0,61 % depuis 10 000,00 €)
+Espèces : 2 020,0595 € | Positions : 7 919,4144 € | Frais cumulés : 49,4533 €
+Gains réalisés : -20,7890 € | Baisse max depuis le sommet : 1,18 %
+Transactions : 20 au total, 3 sur 24 h (0 ventes gagnantes / 2 perdantes)
+Référence acheter-conserver SPY : 9 905,8772 € (-0,94 %) — écart bot : +0,34 %
+Référence acheter-conserver QQQ : 9 873,4742 € (-1,27 %) — écart bot : +0,66 %
+Positions : UNH 1,381641 (coût 499,9998 €) ; XLV 3,125136 (coût 499,4283 €) ; LLY 0,44125 (coût 499,3288 €) ; KO 5,940061 (coût 498,9941 €) ; WMT 4,633353 (coût 498,7306 €) ; XOM 3,171106 (coût 498,7371 €) ; PG 3,497718 (coût 498,5146 €) ; COST 0,562154 (coût 497,7149 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; JNJ 2,181534 (coût 495,7311 €) ; V 1,373525 (coût 494,8424 €) ; JPM 1,629824 (coût 494,4508 €) ; XLE 8,125441 (coût 495,0891 €) ; AMZN 2,10448 (coût 495,0477 €) ; TSLA 1,489059 (coût 497,7843 €)
+Cotations : AAPL 303,43 €/303,58 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; AMZN 234,24 €/234,36 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; AVGO 298,05 €/298,20 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; COST 885,06 €/885,50 € OK [20/10 19:50] ; DIA 466,19 €/466,42 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [20/10 19:30] ; GLD 336,21 €/336,38 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; GOOGL 303,81 €/303,97 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; HD 280,88 €/281,02 € OK [20/10 19:50] ; IWM 245,31 €/245,43 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [20/10 19:30] ; JNJ 230,62 €/230,73 € OK [20/10 19:45] ; JPM 298,56 €/298,71 € OK [20/10 19:45] ; KO 82,64 €/82,68 € OK [20/10 19:50] ; LLY 1 153,98 €/1 154,55 € OK [20/10 19:45] ; META 615,76 €/616,07 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; MSFT 475,14 €/475,38 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; NFLX 61,63 €/61,66 € OK [20/10 19:50] ; NVDA 193,11 €/193,21 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; PG 141,12 €/141,19 € OK [20/10 19:45] ; QQQ 640,17 €/640,49 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [20/10 19:30] ; SPY 684,76 €/685,10 € OK [20/10 19:50] ; TLT 71,23 €/71,26 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; TSLA 333,18 €/333,35 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [20/10 19:40] ; UNH 375,23 €/375,42 € OK [20/10 19:45] ; V 362,40 €/362,58 € OK [20/10 19:45] ; VNQ 81,93 €/81,97 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; WMT 105,25 €/105,31 € OK [20/10 19:50] ; XLE 60,20 €/60,23 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; XLF 49,52 €/49,54 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; XLV 160,00 €/160,08 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [20/10 19:35] ; XOM 157,62 €/157,69 € OK [20/10 19:45]
+Transactions des 24 h :
+  - 19/10 20:01 ACHAT XLE 8,125441 @ 60,6276 € frais 2,4631 € — tendance haussière MM108/MM252 sur XLE (écart +0.62 %) — ligne 14/20, budget 495.09 € (1/20 de 9901.78 €, plafonné aux espèces)
+  - 19/10 20:50 ACHAT AMZN 2,10448 @ 234,0648 € frais 2,4629 € — tendance haussière MM108/MM252 sur AMZN (écart +0.64 %) — ligne 15/20, budget 495.05 € (1/20 de 9900.96 €, plafonné aux espèces)
+  - 20/10 16:20 ACHAT TSLA 1,489059 @ 332,6314 € frais 2,4765 € — tendance haussière MM108/MM252 sur TSLA (écart +0.65 %) — ligne 16/20, budget 497.78 € (1/20 de 9955.69 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 20/10 15:30 [donnees] HD : données anciennes — transactions suspendues
+  - 20/10 15:30 [donnees] NFLX : données anciennes — transactions suspendues
+  - 20/10 15:35 [donnees] SPY : données anciennes — transactions suspendues
+  - 20/10 15:35 [donnees] QQQ : données anciennes — transactions suspendues
+  - 20/10 15:35 [donnees] DIA : données anciennes — transactions suspendues
+  - 20/10 15:35 [donnees] IWM : données anciennes — transactions suspendues
+  - 20/10 15:35 [donnees] GLD : données anciennes — transactions suspendues
+  - 20/10 15:35 [donnees] TLT : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

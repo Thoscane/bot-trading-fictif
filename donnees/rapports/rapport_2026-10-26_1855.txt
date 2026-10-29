@@ -1,0 +1,29 @@
+POINT QUOTIDIEN — bot fictif — 26/10/2026 19:55:26 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 898,9119 € (-1,01 % depuis 10 000,00 €)
+Espèces : 3 414,6614 € | Positions : 6 484,2505 € | Frais cumulés : 96,2777 €
+Gains réalisés : -113,9391 € | Baisse max depuis le sommet : 1,24 %
+Transactions : 39 au total, 7 sur 24 h (2 ventes gagnantes / 11 perdantes)
+Référence acheter-conserver SPY : 9 895,3621 € (-1,05 %) — écart bot : +0,04 %
+Référence acheter-conserver QQQ : 9 831,5185 € (-1,68 %) — écart bot : +0,67 %
+Positions : XLV 3,125136 (coût 499,4283 €) ; XOM 3,171106 (coût 498,7371 €) ; COST 0,562154 (coût 497,7149 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; JNJ 2,181534 (coût 495,7311 €) ; IWM 2,000454 (coût 496,4536 €) ; XLF 9,889459 (coût 500,5104 €) ; AAPL 1,612606 (coût 500,1766 €) ; WMT 4,587079 (coût 498,9887 €) ; XLE 7,978797 (coût 495,8226 €) ; VNQ 5,932095 (coût 497,9681 €) ; TSLA 1,396935 (coût 495,1102 €)
+Cotations : AAPL 306,38 €/306,53 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; AMZN 222,44 €/222,55 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; AVGO 296,03 €/296,18 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; COST 895,32 €/895,77 € OK [26/10 19:55] ; DIA 467,37 €/467,61 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [26/10 19:35] ; GLD 328,88 €/329,04 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; GOOGL 283,93 €/284,07 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; HD 283,90 €/284,04 € OK [26/10 19:55] ; IWM 247,84 €/247,96 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [26/10 19:35] ; JNJ 237,51 €/237,63 € OK [26/10 19:50] ; JPM 299,77 €/299,92 € OK [26/10 19:50] ; KO 82,74 €/82,78 € OK [26/10 19:55] ; LLY 1 143,23 €/1 143,80 € OK [26/10 19:50] ; META 564,36 €/564,64 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; MSFT 475,99 €/476,23 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; NFLX 56,37 €/56,40 € OK [26/10 19:55] ; NVDA 193,15 €/193,24 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; PG 142,22 €/142,29 € OK [26/10 19:50] ; QQQ 637,45 €/637,77 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [26/10 19:35] ; SPY 684,03 €/684,37 € OK [26/10 19:55] ; TLT 73,00 €/73,03 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; TSLA 352,88 €/353,05 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [26/10 19:45] ; UNH 365,96 €/366,14 € OK [26/10 19:50] ; V 361,02 €/361,20 € OK [26/10 19:50] ; VNQ 83,12 €/83,16 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; WMT 107,05 €/107,10 € OK [26/10 19:55] ; XLE 62,20 €/62,24 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; XLF 50,11 €/50,14 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; XLV 159,76 €/159,84 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [26/10 19:40] ; XOM 164,77 €/164,86 € OK [26/10 19:50]
+Transactions des 24 h :
+  - 26/10 15:40 ACHAT VNQ 5,932095 @ 83,5271 € frais 2,4775 € — tendance haussière MM108/MM252 sur VNQ (écart +0.61 %) — ligne 17/20, budget 497.97 € (1/20 de 9959.36 €, plafonné aux espèces)
+  - 26/10 17:15 VENTE LLY 0,44125 @ 1 144,4274 € frais 2,5249 € — MM108 repassée sous MM252 (écart -0.54 %) ; P&L latent +0.63 %
+  - 26/10 17:40 VENTE KO 5,940061 @ 82,6370 € frais 2,4543 € — MM108 repassée sous MM252 (écart -0.53 %) ; P&L latent -2.12 %
+  - 26/10 18:25 VENTE PG 3,497718 @ 142,8241 € frais 2,4978 € — MM108 repassée sous MM252 (écart -0.56 %) ; P&L latent -0.29 %
+  - 26/10 19:05 VENTE UNH 1,381641 @ 365,3531 € frais 2,5239 € — MM108 repassée sous MM252 (écart -0.57 %) ; P&L latent +0.45 %
+  - 26/10 19:25 ACHAT TSLA 1,396935 @ 352,6628 € frais 2,4632 € — tendance haussière MM108/MM252 sur TSLA (écart +0.72 %) — ligne 14/20, budget 495.11 € (1/20 de 9902.21 €, plafonné aux espèces)
+  - 26/10 19:50 VENTE V 1,373525 @ 360,7579 € frais 2,4776 € — MM108 repassée sous MM252 (écart -0.51 %) ; P&L latent -0.37 %
+Incidents des 24 h : 40
+  - 26/10 14:35 [donnees] TSLA : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] AVGO : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] JPM : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] V : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] LLY : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] UNH : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] JNJ : données anciennes — transactions suspendues
+  - 26/10 14:35 [donnees] XOM : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.
