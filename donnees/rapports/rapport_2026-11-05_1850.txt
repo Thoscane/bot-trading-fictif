@@ -1,0 +1,36 @@
+POINT QUOTIDIEN — bot fictif — 05/11/2026 19:50:33 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 627,5580 € (-3,72 % depuis 10 000,00 €)
+Espèces : 2 578,1492 € | Positions : 7 049,4088 € | Frais cumulés : 236,3763 €
+Gains réalisés : -521,2892 € | Baisse max depuis le sommet : 3,92 %
+Transactions : 98 au total, 14 sur 24 h (5 ventes gagnantes / 37 perdantes)
+Référence acheter-conserver SPY : 9 482,5857 € (-5,17 %) — écart bot : +1,45 %
+Référence acheter-conserver QQQ : 8 936,0235 € (-10,64 %) — écart bot : +6,92 %
+Positions : XLV 3,125136 (coût 499,4283 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; XLF 9,889459 (coût 500,5104 €) ; LLY 0,422983 (coût 494,6024 €) ; V 1,331976 (coût 491,9588 €) ; WMT 4,414205 (coût 491,1664 €) ; VNQ 5,783753 (coût 490,8431 €) ; KO 5,746328 (coût 490,0425 €) ; COST 0,532884 (coût 489,4456 €) ; PG 3,321065 (coût 489,0243 €) ; AMZN 2,187649 (coût 485,5440 €) ; NFLX 8,279538 (coût 491,3057 €) ; GLD 1,475447 (coût 491,9323 €)
+Cotations : AAPL 305,63 €/305,79 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; AMZN 230,69 €/230,80 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; AVGO 264,49 €/264,63 € OK [05/11 19:45] ; COST 948,91 €/949,39 € OK [05/11 19:50] ; DIA 459,54 €/459,77 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; GLD 334,54 €/334,70 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; GOOGL 252,52 €/252,65 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; HD 311,30 €/311,46 € OK [05/11 19:50] ; IWM 241,69 €/241,82 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; JNJ 244,33 €/244,46 € OK [05/11 19:50] ; JPM 300,81 €/300,96 € OK [05/11 19:45] ; KO 85,02 €/85,07 € OK [05/11 19:50] ; LLY 1 232,53 €/1 233,14 € OK [05/11 19:45] ; META 537,64 €/537,91 € OK [05/11 19:45] ; MSFT 478,82 €/479,06 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; NFLX 58,08 €/58,11 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [05/11 19:30] ; NVDA 162,87 €/162,95 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; PG 148,37 €/148,45 € OK [05/11 19:50] ; QQQ 579,39 €/579,68 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; SPY 655,49 €/655,82 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [05/11 19:30] ; TLT 73,06 €/73,09 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; TSLA 302,98 €/303,13 € OK [05/11 19:45] ; UNH 353,30 €/353,47 € OK [05/11 19:45] ; V 379,31 €/379,50 € OK [05/11 19:45] ; VNQ 85,69 €/85,73 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; WMT 114,81 €/114,86 € OK [05/11 19:50] ; XLE 56,09 €/56,12 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; XLF 51,36 €/51,39 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [05/11 19:35] ; XLV 165,53 €/165,61 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [05/11 19:40] ; XOM 150,05 €/150,13 € OK [05/11 19:50]
+Transactions des 24 h :
+  - 04/11 20:25 ACHAT JPM 1,568281 @ 312,2635 € frais 2,4486 € — tendance haussière MM108/MM252 sur JPM (écart +0.61 %) — ligne 19/20, budget 492.17 € (1/20 de 9843.31 €, plafonné aux espèces)
+  - 04/11 20:45 ACHAT AAPL 0,859657 @ 314,6859 € frais 1,3526 € — tendance haussière MM108/MM252 sur AAPL (écart +0.81 %) — ligne 20/20, budget 271.87 € (1/20 de 9840.64 €, plafonné aux espèces)
+  - 05/11 15:40 VENTE AVGO 1,698018 @ 277,7536 € frais 2,3582 € — stop de protection : -4.52 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 15:45 ACHAT DIA 0,982801 @ 475,1089 € frais 2,3347 € — tendance haussière MM108/MM252 sur DIA (écart +0.79 %) — ligne 20/20, budget 469.27 € (1/20 de 9854.29 €, plafonné aux espèces)
+  - 05/11 15:55 VENTE META 0,862314 @ 545,2839 € frais 2,3510 € — stop de protection : -5.08 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 16:01 ACHAT UNH 1,258066 @ 370,0343 € frais 2,3276 € — tendance haussière MM108/MM252 sur UNH (écart +0.74 %) — ligne 20/20, budget 467.86 € (1/20 de 9844.02 €, plafonné aux espèces)
+  - 05/11 16:15 VENTE GOOGL 1,884847 @ 252,8894 € frais 2,3833 € — stop de protection : -3.48 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 16:20 VENTE MSFT 0,989173 @ 485,1919 € frais 2,3997 € — stop de protection : -3.20 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 16:25 ACHAT JNJ 1,941506 @ 250,9791 € frais 2,4364 € — tendance haussière MM108/MM252 sur JNJ (écart +0.63 %) — ligne 19/20, budget 489.71 € (1/20 de 9794.28 €, plafonné aux espèces)
+  - 05/11 16:40 VENTE JPM 1,568281 @ 304,0817 € frais 2,3844 € — stop de protection : -3.59 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 16:50 VENTE DIA 0,982801 @ 464,4567 € frais 2,2823 € — stop de protection : -3.21 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 17:35 VENTE UNH 1,258066 @ 361,3640 € frais 2,2731 € — stop de protection : -3.31 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 18:10 VENTE AAPL 0,859657 @ 307,0472 € frais 1,3198 € — stop de protection : -3.40 % sous le coût d'achat (seuil −3.0 %)
+  - 05/11 18:20 VENTE JNJ 1,941506 @ 244,5285 € frais 2,3738 € — stop de protection : -3.54 % sous le coût d'achat (seuil −3.0 %)
+Incidents des 24 h : 40
+  - 05/11 15:30 [donnees] META : données anciennes — transactions suspendues
+  - 05/11 15:30 [donnees] TSLA : données anciennes — transactions suspendues
+  - 05/11 15:35 [donnees] IWM : données anciennes — transactions suspendues
+  - 05/11 15:35 [donnees] GLD : données anciennes — transactions suspendues
+  - 05/11 15:35 [donnees] TLT : données anciennes — transactions suspendues
+  - 05/11 15:35 [donnees] XLE : données anciennes — transactions suspendues
+  - 05/11 15:35 [donnees] XLF : données anciennes — transactions suspendues
+  - 05/11 15:35 [donnees] XLV : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.
