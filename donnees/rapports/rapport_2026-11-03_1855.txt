@@ -1,0 +1,25 @@
+POINT QUOTIDIEN — bot fictif — 03/11/2026 19:55:29 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 712,9323 € (-2,87 % depuis 10 000,00 €)
+Espèces : 3 716,3639 € | Positions : 5 996,5684 € | Frais cumulés : 190,6626 €
+Gains réalisés : -366,3125 € | Baisse max depuis le sommet : 3,23 %
+Transactions : 78 au total, 3 sur 24 h (5 ventes gagnantes / 28 perdantes)
+Référence acheter-conserver SPY : 9 767,0541 € (-2,33 %) — écart bot : -0,54 %
+Référence acheter-conserver QQQ : 9 461,8315 € (-5,38 %) — écart bot : +2,51 %
+Positions : XLV 3,125136 (coût 499,4283 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; XLF 9,889459 (coût 500,5104 €) ; LLY 0,422983 (coût 494,6024 €) ; V 1,331976 (coût 491,9588 €) ; WMT 4,414205 (coût 491,1664 €) ; VNQ 5,783753 (coût 490,8431 €) ; KO 5,746328 (coût 490,0425 €) ; COST 0,532884 (coût 489,4456 €) ; PG 3,321065 (coût 489,0243 €) ; AMZN 2,187649 (coût 485,5440 €)
+Cotations : AAPL 296,35 €/296,50 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; AMZN 224,19 €/224,30 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; AVGO 296,93 €/297,08 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; COST 914,61 €/915,07 € OK [03/11 19:55] ; DIA 462,77 €/463,00 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [03/11 19:35] ; GLD 321,64 €/321,80 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [03/11 19:35] ; GOOGL 250,14 €/250,26 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; HD 296,49 €/296,64 € OK [03/11 19:55] ; IWM 251,28 €/251,40 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [03/11 19:35] ; JNJ 238,61 €/238,73 € OK [03/11 19:50] ; JPM 301,51 €/301,66 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; KO 85,17 €/85,21 € OK [03/11 19:50] ; LLY 1 269,37 €/1 270,00 € OK [03/11 19:50] ; META 557,24 €/557,52 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; MSFT 464,92 €/465,15 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; NFLX 56,28 €/56,31 € OK [03/11 19:55] ; NVDA 185,82 €/185,91 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; PG 144,67 €/144,75 € OK [03/11 19:50] ; QQQ 613,48 €/613,79 € OK [03/11 19:55] ; SPY 675,16 €/675,50 € OK [03/11 19:55] ; TLT 72,41 €/72,45 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; TSLA 355,70 €/355,88 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [03/11 19:45] ; UNH 361,64 €/361,83 € OK [03/11 19:50] ; V 376,83 €/377,02 € OK [03/11 19:50] ; VNQ 84,76 €/84,81 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; WMT 111,84 €/111,90 € OK [03/11 19:55] ; XLE 59,92 €/59,95 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; XLF 51,19 €/51,21 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; XLV 165,18 €/165,26 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [03/11 19:40] ; XOM 158,89 €/158,97 € OK [03/11 19:50]
+Transactions des 24 h :
+  - 03/11 15:35 VENTE XLE 7,943736 @ 60,0699 € frais 2,3859 € — MM108 repassée sous MM252 (écart -0.54 %) ; P&L latent -2.45 %
+  - 03/11 15:45 VENTE XOM 3,171106 @ 159,6385 € frais 2,5312 € — MM108 repassée sous MM252 (écart -0.53 %) ; P&L latent +1.00 %
+  - 03/11 16:01 ACHAT AMZN 2,187649 @ 220,8436 € frais 2,4156 € — tendance haussière MM108/MM252 sur AMZN (écart +0.62 %) — ligne 12/20, budget 485.54 € (1/20 de 9710.88 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 03/11 15:35 [donnees] QQQ : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] DIA : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] LLY : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] UNH : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] JNJ : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] XOM : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] PG : données anciennes — transactions suspendues
+  - 03/11 15:35 [donnees] KO : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

@@ -1,0 +1,25 @@
+POINT QUOTIDIEN — bot fictif — 21/10/2026 19:45:35 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 922,7084 € (-0,77 % depuis 10 000,00 €)
+Espèces : 2 489,5913 € | Positions : 7 433,1171 € | Frais cumulés : 56,7774 €
+Gains réalisés : -47,9850 € | Baisse max depuis le sommet : 1,18 %
+Transactions : 23 au total, 3 sur 24 h (0 ventes gagnantes / 4 perdantes)
+Référence acheter-conserver SPY : 9 959,7476 € (-0,40 %) — écart bot : -0,37 %
+Référence acheter-conserver QQQ : 9 974,6935 € (-0,25 %) — écart bot : -0,52 %
+Positions : UNH 1,381641 (coût 499,9998 €) ; XLV 3,125136 (coût 499,4283 €) ; LLY 0,44125 (coût 499,3288 €) ; KO 5,940061 (coût 498,9941 €) ; XOM 3,171106 (coût 498,7371 €) ; PG 3,497718 (coût 498,5146 €) ; COST 0,562154 (coût 497,7149 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; JNJ 2,181534 (coût 495,7311 €) ; V 1,373525 (coût 494,8424 €) ; XLE 8,125441 (coût 495,0891 €) ; AMZN 2,10448 (coût 495,0477 €) ; TSLA 1,489059 (coût 497,7843 €) ; IWM 2,000454 (coût 496,4536 €)
+Cotations : AAPL 306,60 €/306,76 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [21/10 19:25] ; AMZN 234,67 €/234,79 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; AVGO 301,29 €/301,44 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; COST 886,80 €/887,24 € OK [21/10 19:40] ; DIA 468,81 €/469,04 € OK [21/10 19:45] ; GLD 337,36 €/337,53 € OK [21/10 19:45] ; GOOGL 297,62 €/297,77 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; HD 279,71 €/279,85 € OK [21/10 19:40] ; IWM 246,51 €/246,63 € OK [21/10 19:45] ; JNJ 227,62 €/227,74 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35] ; JPM 298,05 €/298,20 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35] ; KO 82,42 €/82,46 € OK [21/10 19:40] ; LLY 1 130,89 €/1 131,46 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35] ; META 630,02 €/630,34 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; MSFT 473,97 €/474,21 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; NFLX 58,41 €/58,44 € OK [21/10 19:40] ; NVDA 197,07 €/197,17 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; PG 140,16 €/140,23 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35] ; QQQ 646,74 €/647,06 € OK [21/10 19:45] ; SPY 688,48 €/688,82 € OK [21/10 19:40] ; TLT 71,43 €/71,47 € OK [21/10 19:45] ; TSLA 344,66 €/344,83 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [21/10 19:30] ; UNH 369,86 €/370,04 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35] ; V 363,53 €/363,71 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35] ; VNQ 81,72 €/81,76 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [21/10 19:25] ; WMT 104,81 €/104,86 € OK [21/10 19:40] ; XLE 60,60 €/60,63 € OK [21/10 19:45] ; XLF 49,87 €/49,89 € OK [21/10 19:45] ; XLV 158,66 €/158,74 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [21/10 19:25] ; XOM 158,27 €/158,34 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [21/10 19:35]
+Transactions des 24 h :
+  - 20/10 21:55 VENTE WMT 4,633353 @ 104,7067 € frais 2,4257 € — stop de protection : -3.21 % sous le coût d'achat (seuil −3.0 %)
+  - 21/10 15:50 VENTE JPM 1,629824 @ 298,0054 € frais 2,4285 € — MM108 repassée sous MM252 (écart -0.53 %) ; P&L latent -2.26 %
+  - 21/10 16:45 ACHAT IWM 2,000454 @ 246,9358 € frais 2,4699 € — tendance haussière MM108/MM252 sur IWM (écart +0.64 %) — ligne 15/20, budget 496.45 € (1/20 de 9929.07 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 21/10 15:35 [donnees] AAPL : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] MSFT : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] NVDA : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] AMZN : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] GOOGL : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] META : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] TSLA : données anciennes — transactions suspendues
+  - 21/10 15:35 [donnees] AVGO : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

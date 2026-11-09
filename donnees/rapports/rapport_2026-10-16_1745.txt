@@ -1,0 +1,27 @@
+POINT QUOTIDIEN — bot fictif — 16/10/2026 19:45:32 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 908,5589 € (-0,91 % depuis 10 000,00 €)
+Espèces : 4 002,4314 € | Positions : 5 906,1275 € | Frais cumulés : 39,5908 €
+Gains réalisés : -20,7890 € | Baisse max depuis le sommet : 1,16 %
+Transactions : 16 au total, 5 sur 24 h (0 ventes gagnantes / 2 perdantes)
+Référence acheter-conserver SPY : 9 837,5970 € (-1,62 %) — écart bot : +0,71 %
+Référence acheter-conserver QQQ : 9 776,8178 € (-2,23 %) — écart bot : +1,32 %
+Positions : UNH 1,381641 (coût 499,9998 €) ; XLV 3,125136 (coût 499,4283 €) ; LLY 0,44125 (coût 499,3288 €) ; KO 5,940061 (coût 498,9941 €) ; WMT 4,633353 (coût 498,7306 €) ; XOM 3,171106 (coût 498,7371 €) ; PG 3,497718 (coût 498,5146 €) ; COST 0,562154 (coût 497,7149 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; JNJ 2,181534 (coût 495,7311 €) ; V 1,373525 (coût 494,8424 €)
+Cotations : AAPL 305,82 €/305,97 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; AMZN 222,88 €/222,99 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; AVGO 296,32 €/296,47 € OK [16/10 19:40] ; COST 882,41 €/882,85 € OK [16/10 19:45] ; DIA 462,06 €/462,29 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; GLD 339,68 €/339,85 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; GOOGL 304,67 €/304,82 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; HD 277,27 €/277,41 € OK [16/10 19:45] ; IWM 241,13 €/241,25 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; JNJ 227,38 €/227,49 € OK [16/10 19:40] ; JPM 301,76 €/301,91 € OK [16/10 19:40] ; KO 83,02 €/83,06 € OK [16/10 19:45] ; LLY 1 122,59 €/1 123,15 € OK [16/10 19:40] ; META 634,77 €/635,09 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; MSFT 469,05 €/469,28 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; NFLX 62,89 €/62,92 € OK [16/10 19:45] ; NVDA 192,12 €/192,22 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; PG 141,21 €/141,28 € OK [16/10 19:45] ; QQQ 633,91 €/634,22 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [16/10 19:25] ; SPY 680,04 €/680,38 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [16/10 19:25] ; TLT 71,18 €/71,22 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; TSLA 314,10 €/314,26 € OK [16/10 19:40] ; UNH 357,21 €/357,39 € OK [16/10 19:40] ; V 357,83 €/358,01 € OK [16/10 19:40] ; VNQ 81,48 €/81,52 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [16/10 19:35] ; WMT 106,05 €/106,11 € OK [16/10 19:45] ; XLE 60,61 €/60,64 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; XLF 49,28 €/49,30 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; XLV 157,37 €/157,45 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [16/10 19:30] ; XOM 158,49 €/158,57 € OK [16/10 19:45]
+Transactions des 24 h :
+  - 15/10 20:35 ACHAT NFLX 7,594603 @ 65,0191 € frais 2,4690 € — tendance haussière MM108/MM252 sur NFLX (écart +0.64 %) — ligne 12/20, budget 496.26 € (1/20 de 9925.26 €, plafonné aux espèces)
+  - 15/10 21:15 ACHAT JNJ 2,181534 @ 226,1092 € frais 2,4663 € — tendance haussière MM108/MM252 sur JNJ (écart +0.64 %) — ligne 13/20, budget 495.73 € (1/20 de 9914.63 €, plafonné aux espèces)
+  - 16/10 15:45 VENTE NFLX 7,594603 @ 63,2491 € frais 2,4018 € — stop de protection : -3.69 % sous le coût d'achat (seuil −3.0 %)
+  - 16/10 16:20 ACHAT V 1,373525 @ 358,4794 € frais 2,4619 € — tendance haussière MM108/MM252 sur V (écart +0.61 %) — ligne 13/20, budget 494.84 € (1/20 de 9896.85 €, plafonné aux espèces)
+  - 16/10 17:20 VENTE XLE 8,35943 @ 59,7812 € frais 2,4987 € — MM108 repassée sous MM252 (écart -0.54 %) ; P&L latent -0.50 %
+Incidents des 24 h : 40
+  - 16/10 15:30 [donnees] NVDA : données anciennes — transactions suspendues
+  - 16/10 15:30 [donnees] AMZN : données anciennes — transactions suspendues
+  - 16/10 15:35 [donnees] SPY : données anciennes — transactions suspendues
+  - 16/10 15:35 [donnees] QQQ : données anciennes — transactions suspendues
+  - 16/10 15:35 [donnees] DIA : données anciennes — transactions suspendues
+  - 16/10 15:35 [donnees] IWM : données anciennes — transactions suspendues
+  - 16/10 15:35 [donnees] GLD : données anciennes — transactions suspendues
+  - 16/10 15:35 [donnees] TLT : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

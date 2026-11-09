@@ -1,0 +1,27 @@
+POINT QUOTIDIEN — bot fictif — 09/11/2026 19:45:35 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 648,1501 € (-3,52 % depuis 10 000,00 €)
+Espèces : 4 222,6683 € | Positions : 5 425,4818 € | Frais cumulés : 273,4434 €
+Gains réalisés : -420,5421 € | Baisse max depuis le sommet : 4,48 %
+Transactions : 113 au total, 5 sur 24 h (12 ventes gagnantes / 39 perdantes)
+Référence acheter-conserver SPY : 9 708,8100 € (-2,91 %) — écart bot : -0,61 %
+Référence acheter-conserver QQQ : 9 314,1496 € (-6,86 %) — écart bot : +3,34 %
+Positions : TLT 6,903319 (coût 497,2366 €) ; VNQ 5,783753 (coût 490,8431 €) ; KO 5,746328 (coût 490,0425 €) ; COST 0,532884 (coût 489,4456 €) ; PG 3,321065 (coût 489,0243 €) ; AMZN 2,187649 (coût 485,5440 €) ; GLD 1,475447 (coût 491,9323 €) ; AAPL 1,547122 (coût 478,5570 €) ; JNJ 1,9618 (coût 479,6242 €) ; META 0,840105 (coût 482,2954 €) ; TSLA 1,42364 (coût 482,2446 €)
+Cotations : AAPL 311,49 €/311,64 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; AMZN 238,93 €/239,05 € OK [09/11 19:40] ; AVGO 284,35 €/284,49 € OK [09/11 19:40] ; COST 944,86 €/945,33 € OK [09/11 19:45] ; DIA 467,06 €/467,30 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; GLD 335,60 €/335,77 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; GOOGL 258,57 €/258,70 € OK [09/11 19:40] ; HD 317,07 €/317,23 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [09/11 19:25] ; IWM 251,66 €/251,79 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; JNJ 251,87 €/252,00 € OK [09/11 19:45] ; JPM 305,69 €/305,84 € OK [09/11 19:40] ; KO 85,45 €/85,49 € OK [09/11 19:45] ; LLY 1 258,29 €/1 258,92 € OK [09/11 19:45] ; META 572,74 €/573,03 € OK [09/11 19:40] ; MSFT 484,76 €/485,01 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; NFLX 56,62 €/56,64 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [09/11 19:25] ; NVDA 157,09 €/157,17 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; PG 149,99 €/150,07 € OK [09/11 19:45] ; QQQ 603,91 €/604,21 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; SPY 671,13 €/671,47 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; TLT 73,11 €/73,14 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; TSLA 336,13 €/336,30 € OK [09/11 19:40] ; UNH 354,22 €/354,40 € OK [09/11 19:45] ; V 379,10 €/379,29 € OK [09/11 19:40] ; VNQ 87,24 €/87,28 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; WMT 111,83 €/111,89 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [09/11 19:25] ; XLE 55,27 €/55,29 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; XLF 51,92 €/51,94 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; XLV 168,30 €/168,38 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [09/11 19:35] ; XOM 146,54 €/146,62 € OK [09/11 19:45]
+Transactions des 24 h :
+  - 09/11 15:40 VENTE MSFT 0,998758 @ 484,3727 € frais 2,4189 € — MM108 repassée sous MM252 (écart -0.98 %) ; P&L latent +0.55 %
+  - 09/11 15:55 VENTE NFLX 8,329971 @ 56,6703 € frais 2,3603 € — MM108 repassée sous MM252 (écart -1.03 %) ; P&L latent -1.90 %
+  - 09/11 16:35 VENTE HD 1,810905 @ 310,8132 € frais 2,8143 € — MM108 repassée sous MM252 (écart -0.56 %) ; P&L latent +12.57 %
+  - 09/11 17:35 ACHAT META 0,840105 @ 571,2332 € frais 2,3995 € — tendance haussière MM108/MM252 sur META (écart +0.73 %) — ligne 10/20, budget 482.30 € (1/20 de 9645.91 €, plafonné aux espèces)
+  - 09/11 18:40 ACHAT TSLA 1,42364 @ 337,0553 € frais 2,3992 € — tendance haussière MM108/MM252 sur TSLA (écart +0.82 %) — ligne 11/20, budget 482.24 € (1/20 de 9644.89 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 09/11 15:30 [donnees] WMT : données anciennes — transactions suspendues
+  - 09/11 15:30 [donnees] HD : données anciennes — transactions suspendues
+  - 09/11 15:30 [donnees] NFLX : données anciennes — transactions suspendues
+  - 09/11 15:35 [donnees] SPY : données anciennes — transactions suspendues
+  - 09/11 15:35 [donnees] JPM : données anciennes — transactions suspendues
+  - 09/11 15:35 [donnees] V : données anciennes — transactions suspendues
+  - 09/11 15:35 [donnees] LLY : données anciennes — transactions suspendues
+  - 09/11 15:35 [donnees] UNH : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.
