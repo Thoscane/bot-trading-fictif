@@ -1,0 +1,31 @@
+POINT QUOTIDIEN — bot fictif — 06/11/2026 19:55:26 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 634,8743 € (-3,65 % depuis 10 000,00 €)
+Espèces : 3 180,9965 € | Positions : 6 970,7234 € | Frais cumulés : 258,5632 €
+Gains réalisés : -480,5412 € | Baisse max depuis le sommet : 4,48 %
+Transactions : 107 au total, 9 sur 24 h (9 ventes gagnantes / 38 perdantes)
+Référence acheter-conserver SPY : 9 579,9611 € (-4,20 %) — écart bot : +0,55 %
+Référence acheter-conserver QQQ : 9 105,4800 € (-8,95 %) — écart bot : +5,29 %
+Positions : HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; WMT 4,414205 (coût 491,1664 €) ; VNQ 5,783753 (coût 490,8431 €) ; KO 5,746328 (coût 490,0425 €) ; COST 0,532884 (coût 489,4456 €) ; PG 3,321065 (coût 489,0243 €) ; AMZN 2,187649 (coût 485,5440 €) ; GLD 1,475447 (coût 491,9323 €) ; NFLX 8,329971 (coût 478,7952 €) ; MSFT 0,998758 (coût 478,7299 €) ; AAPL 1,547122 (coût 478,5570 €) ; JNJ 1,9618 (coût 479,6242 €)
+Cotations : AAPL 308,82 €/308,98 € OK [06/11 19:55] ; AMZN 236,05 €/236,17 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [06/11 19:35] ; AVGO 260,96 €/261,09 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; COST 951,31 €/951,78 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45] ; DIA 461,41 €/461,64 € OK [06/11 19:50] ; GLD 334,56 €/334,73 € OK [06/11 19:50] ; GOOGL 256,35 €/256,47 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [06/11 19:35] ; HD 308,79 €/308,94 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45] ; IWM 245,93 €/246,05 € OK [06/11 19:50] ; JNJ 246,65 €/246,78 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45] ; JPM 302,25 €/302,40 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; KO 86,24 €/86,28 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45] ; LLY 1 227,08 €/1 227,69 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; META 553,88 €/554,16 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; MSFT 478,73 €/478,97 € OK [06/11 19:55] ; NFLX 57,28 €/57,31 € OK [06/11 19:50] ; NVDA 167,93 €/168,01 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [06/11 19:35] ; PG 148,90 €/148,98 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45] ; QQQ 590,38 €/590,67 € OK [06/11 19:50] ; SPY 662,23 €/662,56 € OK [06/11 19:50] ; TLT 73,67 €/73,71 € OK [06/11 19:55] ; TSLA 322,45 €/322,61 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; UNH 354,24 €/354,42 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; V 379,98 €/380,17 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [06/11 19:40] ; VNQ 86,21 €/86,25 € OK [06/11 19:55] ; WMT 113,09 €/113,15 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45] ; XLE 55,56 €/55,59 € OK [06/11 19:55] ; XLF 51,54 €/51,56 € OK [06/11 19:55] ; XLV 166,30 €/166,38 € OK [06/11 19:55] ; XOM 148,97 €/149,05 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [06/11 19:45]
+Transactions des 24 h :
+  - 05/11 21:15 VENTE LLY 0,422983 @ 1 227,7870 € frais 2,5967 € — MM108 repassée sous MM252 (écart -0.51 %) ; P&L latent +4.48 %
+  - 05/11 21:20 VENTE NFLX 8,279538 @ 57,6898 € frais 2,3882 € — stop de protection : -3.27 % sous le coût d'achat (seuil −3.0 %)
+  - 06/11 15:45 ACHAT NFLX 8,329971 @ 57,1926 € frais 2,3821 € — tendance haussière MM108/MM252 sur NFLX (écart +1.49 %) — ligne 13/20, budget 478.80 € (1/20 de 9575.90 €, plafonné aux espèces)
+  - 06/11 15:55 ACHAT MSFT 0,998758 @ 476,9405 € frais 2,3817 € — tendance haussière MM108/MM252 sur MSFT (écart +1.27 %) — ligne 14/20, budget 478.73 € (1/20 de 9574.60 €, plafonné aux espèces)
+  - 06/11 16:01 ACHAT AAPL 1,547122 @ 307,7819 € frais 2,3809 € — tendance haussière MM108/MM252 sur AAPL (écart +1.16 %) — ligne 15/20, budget 478.56 € (1/20 de 9571.14 €, plafonné aux espèces)
+  - 06/11 16:05 ACHAT JNJ 1,9618 @ 243,2654 € frais 2,3862 € — tendance haussière MM108/MM252 sur JNJ (écart +1.13 %) — ligne 16/20, budget 479.62 € (1/20 de 9592.48 €, plafonné aux espèces)
+  - 06/11 19:30 VENTE XLF 9,889459 @ 51,4637 € frais 2,5447 € — MM108 repassée sous MM252 (écart -0.52 %) ; P&L latent +1.18 %
+  - 06/11 19:40 VENTE V 1,331976 @ 379,7672 € frais 2,5292 € — MM108 repassée sous MM252 (écart -0.52 %) ; P&L latent +2.31 %
+  - 06/11 19:55 VENTE XLV 3,125136 @ 166,2145 € frais 2,5972 € — MM108 repassée sous MM252 (écart -0.51 %) ; P&L latent +3.49 %
+Incidents des 24 h : 40
+  - 06/11 15:30 [donnees] VNQ : données anciennes — transactions suspendues
+  - 06/11 15:30 [donnees] AAPL : données anciennes — transactions suspendues
+  - 06/11 15:30 [donnees] MSFT : données anciennes — transactions suspendues
+  - 06/11 15:30 [donnees] NVDA : données anciennes — transactions suspendues
+  - 06/11 15:35 [donnees] SPY : données anciennes — transactions suspendues
+  - 06/11 15:35 [donnees] QQQ : données anciennes — transactions suspendues
+  - 06/11 15:35 [donnees] DIA : données anciennes — transactions suspendues
+  - 06/11 15:35 [donnees] IWM : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

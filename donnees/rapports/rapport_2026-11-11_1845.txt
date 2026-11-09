@@ -1,0 +1,26 @@
+POINT QUOTIDIEN — bot fictif — 11/11/2026 19:45:34 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 754,3446 € (-2,46 % depuis 10 000,00 €)
+Espèces : 16,1109 € | Positions : 9 738,2337 € | Frais cumulés : 308,8193 €
+Gains réalisés : -446,4477 € | Baisse max depuis le sommet : 4,48 %
+Transactions : 128 au total, 4 sur 24 h (12 ventes gagnantes / 42 perdantes)
+Référence acheter-conserver SPY : 9 940,1107 € (-0,60 %) — écart bot : -1,86 %
+Référence acheter-conserver QQQ : 9 667,3105 € (-3,33 %) — écart bot : +0,87 %
+Positions : VNQ 5,783753 (coût 490,8431 €) ; KO 5,746328 (coût 490,0425 €) ; COST 0,532884 (coût 489,4456 €) ; PG 3,321065 (coût 489,0243 €) ; AMZN 2,187649 (coût 485,5440 €) ; AAPL 1,547122 (coût 478,5570 €) ; JNJ 1,9618 (coût 479,6242 €) ; META 0,840105 (coût 482,2954 €) ; TSLA 1,42364 (coût 482,2446 €) ; GOOGL 1,855277 (coût 482,5571 €) ; IWM 1,900839 (coût 482,5103 €) ; AVGO 1,67626 (coût 482,1937 €) ; QQQ 0,789941 (coût 481,9676 €) ; SPY 0,716182 (coût 482,1111 €) ; LLY 0,377079 (coût 481,3132 €) ; HD 1,52379 (coût 481,3866 €) ; DIA 0,781679 (coût 367,1477 €) ; JPM 1,498831 (coût 463,0701 €) ; XLV 2,83265 (coût 479,7331 €) ; UNH 1,347214 (coût 485,8300 €)
+Cotations : AAPL 320,05 €/320,21 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; AMZN 240,31 €/240,43 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; AVGO 318,19 €/318,35 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; COST 969,55 €/970,03 € OK [11/11 19:40] ; DIA 472,70 €/472,94 € OK [11/11 19:45] ; GLD 329,64 €/329,81 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [11/11 19:25] ; GOOGL 266,30 €/266,43 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; HD 315,21 €/315,36 € OK [11/11 19:45] ; IWM 255,62 €/255,75 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [11/11 19:25] ; JNJ 250,89 €/251,01 € OK [11/11 19:40] ; JPM 310,23 €/310,38 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; KO 87,28 €/87,32 € OK [11/11 19:40] ; LLY 1 289,18 €/1 289,83 € OK [11/11 19:40] ; META 577,51 €/577,80 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; MSFT 470,68 €/470,92 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; NFLX 57,63 €/57,65 € OK [11/11 19:45] ; NVDA 159,71 €/159,79 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; PG 150,58 €/150,66 € OK [11/11 19:40] ; QQQ 626,81 €/627,12 € OK [11/11 19:45] ; SPY 687,12 €/687,47 € OK [11/11 19:45] ; TLT 72,89 €/72,92 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [11/11 19:25] ; TSLA 354,79 €/354,97 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; UNH 359,42 €/359,60 € OK [11/11 19:40] ; V 382,18 €/382,37 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [11/11 19:35] ; VNQ 87,22 €/87,27 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; WMT 112,20 €/112,26 € OK [11/11 19:45] ; XLE 56,81 €/56,84 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; XLF 52,73 €/52,76 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; XLV 169,56 €/169,64 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [11/11 19:30] ; XOM 149,46 €/149,54 € OK [11/11 19:40]
+Transactions des 24 h :
+  - 10/11 19:50 VENTE TLT 6,903319 @ 72,2471 € frais 2,4937 € — MM108 repassée sous MM252 (écart -0.50 %) ; P&L latent -0.20 %
+  - 10/11 19:55 ACHAT XLV 2,83265 @ 168,5158 € frais 2,3867 € — tendance haussière MM108/MM252 sur XLV (écart +0.73 %) — ligne 20/20, budget 479.73 € (1/20 de 9594.66 €, plafonné aux espèces)
+  - 11/11 16:45 VENTE GLD 1,475447 @ 330,6538 € frais 2,4393 € — MM108 repassée sous MM252 (écart -0.50 %) ; P&L latent -1.32 %
+  - 11/11 17:01 ACHAT UNH 1,347214 @ 358,8242 € frais 2,4171 € — tendance haussière MM108/MM252 sur UNH (écart +0.87 %) — ligne 20/20, budget 485.83 € (1/20 de 9716.60 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 11/11 15:30 [donnees] TSLA : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] AVGO : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] JPM : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] V : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] LLY : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] UNH : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] JNJ : données anciennes — transactions suspendues
+  - 11/11 15:30 [donnees] XOM : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.
