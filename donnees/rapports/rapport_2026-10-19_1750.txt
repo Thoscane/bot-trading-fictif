@@ -1,0 +1,23 @@
+POINT QUOTIDIEN — bot fictif — 19/10/2026 19:50:31 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 898,9146 € (-1,01 % depuis 10 000,00 €)
+Espèces : 3 507,9806 € | Positions : 6 390,9340 € | Frais cumulés : 42,0507 €
+Gains réalisés : -20,7890 € | Baisse max depuis le sommet : 1,18 %
+Transactions : 17 au total, 1 sur 24 h (0 ventes gagnantes / 2 perdantes)
+Référence acheter-conserver SPY : 9 901,0793 € (-0,99 %) — écart bot : -0,02 %
+Référence acheter-conserver QQQ : 9 897,5806 € (-1,02 %) — écart bot : +0,01 %
+Positions : UNH 1,381641 (coût 499,9998 €) ; XLV 3,125136 (coût 499,4283 €) ; LLY 0,44125 (coût 499,3288 €) ; KO 5,940061 (coût 498,9941 €) ; WMT 4,633353 (coût 498,7306 €) ; XOM 3,171106 (coût 498,7371 €) ; PG 3,497718 (coût 498,5146 €) ; COST 0,562154 (coût 497,7149 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; JNJ 2,181534 (coût 495,7311 €) ; V 1,373525 (coût 494,8424 €) ; JPM 1,629824 (coût 494,4508 €)
+Cotations : AAPL 305,57 €/305,72 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; AMZN 234,12 €/234,24 € OK [19/10 19:45] ; AVGO 299,21 €/299,36 € OK [19/10 19:45] ; COST 886,59 €/887,03 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [19/10 19:30] ; DIA 462,98 €/463,21 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [19/10 19:35] ; GLD 338,72 €/338,89 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; GOOGL 307,35 €/307,50 € OK [19/10 19:45] ; HD 275,87 €/276,00 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [19/10 19:35] ; IWM 242,07 €/242,19 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [19/10 19:35] ; JNJ 226,63 €/226,74 € OK [19/10 19:50] ; JPM 299,63 €/299,78 € OK [19/10 19:50] ; KO 83,47 €/83,52 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [19/10 19:30] ; LLY 1 113,13 €/1 113,69 € OK [19/10 19:50] ; META 625,74 €/626,06 € OK [19/10 19:45] ; MSFT 476,20 €/476,44 € OK [19/10 19:45] ; NFLX 61,97 €/62,00 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [19/10 19:35] ; NVDA 193,84 €/193,93 € OK [19/10 19:45] ; PG 140,86 €/140,93 € OK [19/10 19:50] ; QQQ 641,74 €/642,06 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [19/10 19:35] ; SPY 684,42 €/684,77 € SUSPENDU (cours de 16 min, en attente de son tour de rafraîchissement) [19/10 19:35] ; TLT 70,88 €/70,91 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; TSLA 328,85 €/329,02 € OK [19/10 19:45] ; UNH 359,75 €/359,93 € OK [19/10 19:50] ; V 359,39 €/359,57 € OK [19/10 19:50] ; VNQ 80,81 €/80,85 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; WMT 105,92 €/105,98 € SUSPENDU (cours de 21 min, en attente de son tour de rafraîchissement) [19/10 19:30] ; XLE 60,53 €/60,56 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; XLF 49,17 €/49,20 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; XLV 156,68 €/156,76 € SUSPENDU (cours de 11 min, en attente de son tour de rafraîchissement) [19/10 19:40] ; XOM 159,40 €/159,48 € OK [19/10 19:50]
+Transactions des 24 h :
+  - 19/10 17:15 ACHAT JPM 1,629824 @ 301,8675 € frais 2,4600 € — tendance haussière MM108/MM252 sur JPM (écart +0.61 %) — ligne 13/20, budget 494.45 € (1/20 de 9889.02 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 19/10 15:30 [donnees] KO : données anciennes — transactions suspendues
+  - 19/10 15:30 [donnees] COST : données anciennes — transactions suspendues
+  - 19/10 15:30 [donnees] WMT : données anciennes — transactions suspendues
+  - 19/10 15:30 [donnees] HD : données anciennes — transactions suspendues
+  - 19/10 15:30 [donnees] NFLX : données anciennes — transactions suspendues
+  - 19/10 15:35 [donnees] SPY : données anciennes — transactions suspendues
+  - 19/10 15:35 [donnees] QQQ : données anciennes — transactions suspendues
+  - 19/10 15:35 [donnees] V : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.

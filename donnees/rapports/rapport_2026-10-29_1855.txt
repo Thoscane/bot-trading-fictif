@@ -1,0 +1,28 @@
+POINT QUOTIDIEN — bot fictif — 29/10/2026 19:55:23 (heure de Paris)
+Décideur : stratégie à règles
+Statut : ACTIF
+Valeur totale : 9 825,0999 € (-1,75 % depuis 10 000,00 €)
+Espèces : 1 847,2148 € | Positions : 7 977,8851 € | Frais cumulés : 142,1462 €
+Gains réalisés : -272,4639 € | Baisse max depuis le sommet : 2,05 %
+Transactions : 58 au total, 6 sur 24 h (2 ventes gagnantes / 19 perdantes)
+Référence acheter-conserver SPY : 9 939,3519 € (-0,61 %) — écart bot : -1,14 %
+Référence acheter-conserver QQQ : 9 844,4976 € (-1,56 %) — écart bot : -0,19 %
+Positions : XLV 3,125136 (coût 499,4283 €) ; XOM 3,171106 (coût 498,7371 €) ; HD 1,810905 (coût 497,5211 €) ; TLT 6,903319 (coût 497,2366 €) ; JNJ 2,181534 (coût 495,7311 €) ; IWM 2,000454 (coût 496,4536 €) ; XLF 9,889459 (coût 500,5104 €) ; AAPL 1,612606 (coût 500,1766 €) ; TSLA 1,396935 (coût 495,1102 €) ; AVGO 1,608581 (coût 496,1307 €) ; QQQ 0,763297 (coût 495,3090 €) ; GLD 1,473877 (coût 494,9246 €) ; JPM 1,457518 (coût 442,6147 €) ; SPY 0,694996 (coût 483,8761 €) ; LLY 0,422983 (coût 494,6024 €) ; V 1,331976 (coût 491,9588 €)
+Cotations : AAPL 313,77 €/313,93 € OK [29/10 19:55] ; AMZN 219,66 €/219,77 € OK [29/10 19:55] ; AVGO 307,84 €/307,99 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [29/10 19:35] ; COST 889,92 €/890,36 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [29/10 19:45] ; DIA 466,83 €/467,07 € OK [29/10 19:50] ; GLD 329,03 €/329,20 € OK [29/10 19:50] ; GOOGL 253,68 €/253,80 € OK [29/10 19:55] ; HD 292,54 €/292,69 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [29/10 19:45] ; IWM 253,50 €/253,63 € OK [29/10 19:50] ; JNJ 245,71 €/245,83 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40] ; JPM 307,00 €/307,16 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40] ; KO 82,98 €/83,02 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [29/10 19:45] ; LLY 1 225,71 €/1 226,33 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40] ; META 559,71 €/559,99 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [29/10 19:35] ; MSFT 473,17 €/473,41 € OK [29/10 19:55] ; NFLX 55,32 €/55,35 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [29/10 19:45] ; NVDA 190,77 €/190,87 € OK [29/10 19:55] ; PG 143,25 €/143,32 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40] ; QQQ 638,29 €/638,61 € OK [29/10 19:50] ; SPY 687,07 €/687,41 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [29/10 19:45] ; TLT 72,85 €/72,89 € OK [29/10 19:50] ; TSLA 362,54 €/362,72 € SUSPENDU (cours de 20 min, en attente de son tour de rafraîchissement) [29/10 19:35] ; UNH 363,04 €/363,22 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40] ; V 367,35 €/367,54 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40] ; VNQ 83,77 €/83,82 € OK [29/10 19:55] ; WMT 108,70 €/108,76 € SUSPENDU (cours de 10 min, en attente de son tour de rafraîchissement) [29/10 19:45] ; XLE 61,29 €/61,32 € OK [29/10 19:50] ; XLF 50,93 €/50,95 € OK [29/10 19:50] ; XLV 163,81 €/163,89 € OK [29/10 19:55] ; XOM 163,37 €/163,45 € SUSPENDU (cours de 15 min, en attente de son tour de rafraîchissement) [29/10 19:40]
+Transactions des 24 h :
+  - 28/10 20:01 VENTE VNQ 5,932095 @ 81,7249 € frais 2,4240 € — stop de protection : -3.13 % sous le coût d'achat (seuil −3.0 %)
+  - 29/10 14:45 VENTE GOOGL 1,676109 @ 254,9039 € frais 2,1362 € — stop de protection : -13.12 % sous le coût d'achat (seuil −3.0 %)
+  - 29/10 14:50 VENTE AMZN 2,156399 @ 219,9001 € frais 2,3710 € — stop de protection : -4.73 % sous le coût d'achat (seuil −3.0 %)
+  - 29/10 15:50 VENTE NVDA 2,524858 @ 190,9635 € frais 2,4108 € — stop de protection : -3.14 % sous le coût d'achat (seuil −3.0 %)
+  - 29/10 15:55 VENTE MSFT 1,03227 @ 467,4490 € frais 2,4127 € — stop de protection : -3.03 % sous le coût d'achat (seuil −3.0 %)
+  - 29/10 18:10 ACHAT V 1,331976 @ 367,5076 € frais 2,4476 € — tendance haussière MM108/MM252 sur V (écart +0.60 %) — ligne 16/20, budget 491.96 € (1/20 de 9839.18 €, plafonné aux espèces)
+Incidents des 24 h : 40
+  - 29/10 14:30 [donnees] TSLA : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] AVGO : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] JPM : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] V : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] LLY : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] UNH : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] JNJ : données anciennes — transactions suspendues
+  - 29/10 14:30 [donnees] XOM : données anciennes — transactions suspendues
+Rappel : simulation fictive, aucune rentabilité promise.
